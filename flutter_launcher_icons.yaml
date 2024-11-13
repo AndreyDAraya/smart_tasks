@@ -1,0 +1,16 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/light_logo.png"
+  image_path_android: "assets/logo/light_logo.png"
+  image_path_ios: "assets/logo/light_logo.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/logo/light_logo.png"
+  # Dark mode icons (for Android 13+)
+  image_path_dark: "assets/logo/dark_logo.png"
+  image_path_android_dark: "assets/logo/dark_logo.png"
+  image_path_ios_dark: "assets/logo/dark_logo.png"
+  adaptive_icon_background_dark: "#000000"
+  adaptive_icon_foreground_dark: "assets/logo/dark_logo.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21
